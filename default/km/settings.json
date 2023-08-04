@@ -54,6 +54,10 @@
       "entityType": "restaurant",
       "defaultFieldEligibilityGroup": "restaurant.default",
       "disabled": false
+    },
+    {
+      "entityType": "organization",
+      "disabled": false
     }
   ]
 }
